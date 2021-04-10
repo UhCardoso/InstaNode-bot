@@ -1,0 +1,16 @@
+{
+  "name": "InstaNode-bot",
+  "version": "1.0.0",
+  "description": "Programa de automação de navegador para atrair seguidores no Instagram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot-insta/index.js"
+  },
+  "author": "werlen cardoso",
+  "license": "ISC",
+  "dependencies": {
+    "chromium-headless-client": "^2.0.0",
+    "express": "^4.17.1",
+    "puppeteer": "^8.0.0"
+  }
+}
