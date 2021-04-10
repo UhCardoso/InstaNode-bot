@@ -26,7 +26,7 @@
 
 4- Digite o comando: `npm install` e aguarde a instalação das dependências.
 
-5- Veja na próxima seção intruções de configuração.
+5- Veja na próxima seção as intruções de configuração.
 
 ---
 ## Intruções de configuração
