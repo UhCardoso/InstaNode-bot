@@ -64,6 +64,8 @@ Ao reiniciar o Browser, o bot irá se conectar automanticamente na sua conta do 
 
 ![alt text](https://s4.gifyu.com/images/seguir.gif)
 
+Seguindo as pessoas que têm interesse no assunto que você aborda, a tendência é que as pessoas te sigam de volta. *Não é usado compra de seguidores* e nem a *ação de usar contas de terceiros para seguir seu perfil* sem o concentimento deles. 
+
 - Cada loop acontecerá de 20 em 20 minutos, seguindo no maximo 11 perfis em cada.
 
 ---
