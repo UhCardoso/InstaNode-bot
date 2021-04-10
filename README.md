@@ -18,7 +18,7 @@
 ---
 ## Instalação
 
-1- Antes de tudo, tenha o [Nodejs](https://nodejs.org) instalado no sua máquina.
+1- Antes de tudo, tenha o [Nodejs](https://nodejs.org) instalado na sua máquina.
 
 2- Abra o terminal e dê o comando: `git clone https://github.com/UhCardoso/InstaNode-bot.git`
 
