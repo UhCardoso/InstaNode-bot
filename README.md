@@ -46,19 +46,19 @@
 ---
 ## Features
 
-### Login
+### 1- Login
 
--1 Primeiro o bot irá verificar se você está usando ele pela primeira vez. Se for a primeira vez, ele irá fazer o preenchimento dos dados na tela de login do Instagram, e salvará um arquivo de cookie na raíz do projeto: 
+Primeiro o bot irá verificar se você está usando ele pela primeira vez. Se for a primeira vez, ele irá fazer o preenchimento dos dados na tela de login do Instagram, e salvará um arquivo de cookie na raíz do projeto: 
 
 ![alt text](https://s4.gifyu.com/images/logine0c5771d1a36a5bb.gif)
 
-### Parar de seguir perfis anteriores
+### 2- Parar de seguir perfis anteriores
 
--2 Ao reiniciar o Browser, o bot irá se conectar automanticamente na sua conta do Instagram a partir dos dados que ficaram salvos no arquivo de cookie. E em seguida deixará de seguir 5 pessoas no seu perfil, para evitar o excesso de perfis sendo seguidos pelo seu Instagram.
+Ao reiniciar o Browser, o bot irá se conectar automanticamente na sua conta do Instagram a partir dos dados que ficaram salvos no arquivo de cookie. E em seguida deixará de seguir 5 pessoas no seu perfil, para evitar o excesso de perfis sendo seguidos pelo seu Instagram.
 
 ![alt text](https://s4.gifyu.com/images/parar-seguir.gif)
 
-### Seguir novos perfis
+### 3- Seguir novos perfis
 
 -3 Ele irá para a primeira página que você configurou nos arquivos do `profiles.json` e seguirá 11 pessoas. Caso já tenha seguido as pessoas antes, ele irá para o segundo perfil alvo, fazendo isso sucessivamente até percorrer os 7 perfis alvos ou até seguir 11 perfis no loop atual.
 
