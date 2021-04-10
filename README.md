@@ -31,11 +31,11 @@
 ---
 ## Intruções de configuração
 
-- No arquivo de caminho `/bot-insta/config/auth-info.json`, digite as suas credencias de login do Instagram:
+- No arquivo de caminho `/bot-insta/config/auth-info.json`, digite as suas credencias de login da sua conta no Instagram:
 
 ![alt text](https://thumbs2.imgbox.com/d6/d3/xNSPUk73_t.png)
 
-- No arquivo de caminho `/bot-insta/config/profiles.json`, digite o username de cada um do 7 perfis que serão alvos das raspagem de seguidores:
+- No arquivo de caminho `/bot-insta/config/profiles.json`, digite o username de cada um dos 7 perfis que serão alvos das raspagem de seguidores:
 
 ![alt text](https://thumbs2.imgbox.com/58/35/EN0t9piV_t.png)
 
